@@ -14,13 +14,13 @@ Retrieval pipelines · multi-agent orchestration · backend infrastructure
 
 ### About
 
-I'm a software engineer who likes building things that work. Most of my time goes into backend services, the frontend that sits on top of them, and fixing what breaks along the way.
+I'm a computer science student working toward becoming a strong software engineer, with a growing interest in AI engineering. I like understanding how things work under the hood — from a backend service and its database to the frontend on top.
 
-I learn by shipping: start small, get it running, then make it better. Right now I'm learning how systems scale, with distributed systems next.
+I learn by building: start with something small, ship it, then improve it or fix what broke. That has taught me more than reading about it.
 
 - Computer Science at **MGIT**, Hyderabad
-- Python, TypeScript, FastAPI, Next.js, Postgres, Docker
-- Currently learning scaling and distributed systems
+- Building with Python, TypeScript, FastAPI, Next.js, Postgres, Docker
+- Currently learning how systems scale; distributed systems next
 
 ---
 
