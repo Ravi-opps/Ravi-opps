@@ -14,12 +14,13 @@ Retrieval pipelines · multi-agent orchestration · backend infrastructure
 
 ### About
 
-I like the unglamorous part of AI engineering: parsing documents in the right order, keeping citations honest, making ingestion asynchronous, and putting a real interface on top. Most of my projects start as a narrow question — *can a filing answer cite the exact sentence it came from?* — and grow into a running system with guardrails, workers, and a demo URL.
+I build systems end to end — the ingestion path, the retrieval layer, the API, and the interface someone actually clicks. A project isn't finished for me until it runs, fails loudly when it should, and can be demoed.
+
+Most of what I know came from shipping something and then fixing what broke: a parser that had to preserve document order, ingestion that couldn't block the request path, a build pipeline that had to survive a container dying halfway. I read the source, find the bottleneck, and keep the thing running.
 
 - Computer Science at **MGIT**, Hyderabad
-- Currently learning **how systems scale** — queues, partitioning, backpressure, and observability — with **distributed systems** as the next step
-- Also going deep on **retrieval evaluation**, **agent orchestration**, and **async data pipelines**
-- Happy across the stack: Python services, TypeScript frontends, Kafka, Docker, Postgres, Redis, vector databases
+- Ships with Python, TypeScript, FastAPI, Next.js, Kafka, Docker, Postgres, Redis, and Qdrant
+- Learning how systems scale now; **distributed systems** next
 
 ---
 
