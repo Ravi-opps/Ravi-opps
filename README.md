@@ -14,13 +14,13 @@ Retrieval pipelines · multi-agent orchestration · backend infrastructure
 
 ### About
 
-I build systems end to end — the ingestion path, the retrieval layer, the API, and the interface someone actually clicks. A project isn't finished for me until it runs, fails loudly when it should, and can be demoed.
+I'm a software engineer who likes building things that work. Most of my time goes into backend services, the frontend that sits on top of them, and fixing what breaks along the way.
 
-Most of what I know came from shipping something and then fixing what broke: a parser that had to preserve document order, ingestion that couldn't block the request path, a build pipeline that had to survive a container dying halfway. I read the source, find the bottleneck, and keep the thing running.
+I learn by shipping: start small, get it running, then make it better. Right now I'm learning how systems scale, with distributed systems next.
 
 - Computer Science at **MGIT**, Hyderabad
-- Ships with Python, TypeScript, FastAPI, Next.js, Kafka, Docker, Postgres, Redis, and Qdrant
-- Learning how systems scale now; **distributed systems** next
+- Python, TypeScript, FastAPI, Next.js, Postgres, Docker
+- Currently learning scaling and distributed systems
 
 ---
 
