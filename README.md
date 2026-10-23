@@ -6,7 +6,7 @@
 
 Retrieval pipelines · multi-agent orchestration · backend infrastructure
 
-[GitHub](https://github.com/Ravi-opps) · Hyderabad, India
+[GitHub](https://github.com/Ravi-opps) · [LinkedIn](https://www.linkedin.com/in/ravi-krishna-pamulaparthy-6a85a81a3) · Hyderabad, India
 
 </div>
 
@@ -17,7 +17,8 @@ Retrieval pipelines · multi-agent orchestration · backend infrastructure
 I like the unglamorous part of AI engineering: parsing documents in the right order, keeping citations honest, making ingestion asynchronous, and putting a real interface on top. Most of my projects start as a narrow question — *can a filing answer cite the exact sentence it came from?* — and grow into a running system with guardrails, workers, and a demo URL.
 
 - Computer Science at **MGIT**, Hyderabad
-- Currently going deep on **retrieval evaluation**, **agent orchestration**, and **async data pipelines**
+- Currently learning **how systems scale** — queues, partitioning, backpressure, and observability — with **distributed systems** as the next step
+- Also going deep on **retrieval evaluation**, **agent orchestration**, and **async data pipelines**
 - Happy across the stack: Python services, TypeScript frontends, Kafka, Docker, Postgres, Redis, vector databases
 
 ---
@@ -81,7 +82,7 @@ I like the unglamorous part of AI engineering: parsing documents in the right or
 ### Currently
 
 - Hardening the retrieval and evaluation layer of the SEC filings assistant
-- Learning more about inference infrastructure and cost-aware model routing
+- Learning how systems scale: queues, partitioning, backpressure, caching, and observability — building toward distributed systems
 - Open to building with people working on retrieval, agents, or developer tooling
 
-<sub>Best way to reach me is an issue or a discussion on any repo above.</sub>
+<sub>Best way to reach me is an issue on any repo above, or on [LinkedIn](https://www.linkedin.com/in/ravi-krishna-pamulaparthy-6a85a81a3).</sub>
