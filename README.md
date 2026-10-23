@@ -67,19 +67,6 @@ I learn by shipping: start small, get it running, then make it better. Right now
 
 ---
 
-### On GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ravi-opps&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-opps&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=Ravi-opps&hide_border=true&theme=tokyonight" alt="Contribution streak" height="165" />
-
-</div>
-
----
-
 ### Currently
 
 - Hardening the retrieval and evaluation layer of the SEC filings assistant
