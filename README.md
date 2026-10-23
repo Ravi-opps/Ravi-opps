@@ -1,6 +1,6 @@
 <div align="center">
 
-# P Ravi Krishna
+# Ravi Krishna
 
 **I build AI systems that can show their work.**
 
