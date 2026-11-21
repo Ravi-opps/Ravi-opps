@@ -2,7 +2,7 @@
 
 # Ravi Krishna
 
-**I build AI systems that can show their work.**
+**Building .... Stuff.**
 
 Retrieval pipelines · multi-agent orchestration · backend infrastructure
 
